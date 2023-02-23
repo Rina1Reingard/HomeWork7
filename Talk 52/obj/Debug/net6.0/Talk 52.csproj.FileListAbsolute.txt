@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\учебаGreekBrains\HomeWork7\HomeWork7\Talk 52\bin\Debug\net6.0\Talk 52.exe
+C:\Users\1\Desktop\учебаGreekBrains\HomeWork7\HomeWork7\Talk 52\bin\Debug\net6.0\Talk 52.deps.json
+C:\Users\1\Desktop\учебаGreekBrains\HomeWork7\HomeWork7\Talk 52\bin\Debug\net6.0\Talk 52.runtimeconfig.json
+C:\Users\1\Desktop\учебаGreekBrains\HomeWork7\HomeWork7\Talk 52\bin\Debug\net6.0\Talk 52.dll
+C:\Users\1\Desktop\учебаGreekBrains\HomeWork7\HomeWork7\Talk 52\bin\Debug\net6.0\Talk 52.pdb
+C:\Users\1\Desktop\учебаGreekBrains\HomeWork7\HomeWork7\Talk 52\obj\Debug\net6.0\Talk 52.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\учебаGreekBrains\HomeWork7\HomeWork7\Talk 52\obj\Debug\net6.0\Talk 52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\учебаGreekBrains\HomeWork7\HomeWork7\Talk 52\obj\Debug\net6.0\Talk 52.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\учебаGreekBrains\HomeWork7\HomeWork7\Talk 52\obj\Debug\net6.0\Talk 52.AssemblyInfo.cs
+C:\Users\1\Desktop\учебаGreekBrains\HomeWork7\HomeWork7\Talk 52\obj\Debug\net6.0\Talk 52.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\учебаGreekBrains\HomeWork7\HomeWork7\Talk 52\obj\Debug\net6.0\Talk 52.dll
+C:\Users\1\Desktop\учебаGreekBrains\HomeWork7\HomeWork7\Talk 52\obj\Debug\net6.0\refint\Talk 52.dll
+C:\Users\1\Desktop\учебаGreekBrains\HomeWork7\HomeWork7\Talk 52\obj\Debug\net6.0\Talk 52.pdb
+C:\Users\1\Desktop\учебаGreekBrains\HomeWork7\HomeWork7\Talk 52\obj\Debug\net6.0\Talk 52.genruntimeconfig.cache
+C:\Users\1\Desktop\учебаGreekBrains\HomeWork7\HomeWork7\Talk 52\obj\Debug\net6.0\ref\Talk 52.dll
